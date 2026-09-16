@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="16" fill="#342724"/>
+  <path d="M32 51C26 45 11 34 11 21c0-8 6-13 13-13 4 0 7 2 8 5 2-3 5-5 9-5 7 0 13 5 13 13 0 13-16 24-22 30Z" fill="none" stroke="#c9614a" stroke-width="3"/>
+  <text x="32" y="34" text-anchor="middle" font-family="Georgia,serif" font-size="12" font-style="italic" fill="#fffaf2">A&amp;G</text>
+</svg>
